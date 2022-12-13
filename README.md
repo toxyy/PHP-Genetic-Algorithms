@@ -4,7 +4,9 @@
 Only nqueens and tsalesmen work.
 
 To run:
+
 localhost/nqueens.php
+
 localhost/tsalesmen.php
 
 NOTE:
